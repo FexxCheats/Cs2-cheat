@@ -11,4 +11,29 @@ you can open the menu by clicking insert or home on your keyboard this hack has 
 the payed version is much better but the free one has thing like esp, trigger bot and other things that still are good.
 And the paid version has things like bhop and aimbot but that one is more likely that you will get banned.
 
+We have many functions
 ![image](https://github.com/FexxCheats/Cs2-cheat/assets/174449840/e329daa8-bfc8-4300-b367-eaa7874ca9fc)
+### Functions
+1.BoneESP
+
+2.BoxESP
+
+3.AimBot (With rcs)
+
+4.EyeLine
+
+5.Auto update offsets
+
+6.weaponESP
+
+7.Radar
+
+8.TriggerBot
+
+9.HeadShoot Line
+
+10.Fov Line
+
+11.Visibility Check
+
+12.OBS Bypass
