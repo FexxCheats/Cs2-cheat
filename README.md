@@ -12,7 +12,8 @@ the payed version is much better but the free one has thing like esp, trigger bo
 And the paid version has things like bhop and aimbot but that one is more likely that you will get banned.
 
 We have many functions
-![image](https://github.com/FexxCheats/Cs2-cheat/assets/174449840/e329daa8-bfc8-4300-b367-eaa7874ca9fc)
+![image](https://github.com/FexxCheats/Cs2-cheat/assets/174449840/ec16ac1a-f2da-4202-8394-f01f1d6fc520)
+
 ### Functions
 1.BoneESP
 
