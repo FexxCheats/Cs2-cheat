@@ -1,3 +1,8 @@
+### Hi
+im Fexx and i make and take cheats and make them easier to download.
+i post tutorials on youtube so its easier to understand how you downlaod.
+i know that games have anti cheat thats why i dont stay for your actions if you get banned and you should know that just so you dont say that its my fault if you get banned beacuse i already told you that its your actions and you are the one who wants to cheat on the game!
+
 ### Cs2-cheat
 Its your own risk for getting banned!
 its not my fault for your actions if you get banned!
